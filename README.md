@@ -1,1 +1,1 @@
-# Curso-TI-Movimentacao-de-pecas-de-xadrez
+# Curso-TI-Movimentacao-pecas-de-xadrez
